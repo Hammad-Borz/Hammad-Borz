@@ -11,6 +11,8 @@ I'm focused on building practical automation systems and continuously developing
 - 🔌 API Integration
 - 📄 Document Processing
 - 🧠 RAG & Chat with Documents
+- 📧 Email Automation
+- 📊 Excel & Google Sheets Automation
 - 🗄️ SQL & Database Workflows
 - 📊 Data Processing & Automation
 - 🔗 Workflow & Tool Integration
@@ -23,7 +25,7 @@ I'm focused on building practical automation systems and continuously developing
 
 **Automation & Data**
 
-`APIs` · `Requests` · `Pydantic` · `Pandas`
+`APIs` · `Requests` · `Pydantic` · `Pandas` · `Excel` · `Google Sheets`
 
 **AI Systems**
 
