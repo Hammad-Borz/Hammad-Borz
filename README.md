@@ -247,7 +247,7 @@ I build **custom automation projects and provide professional services** across 
 ### 📞 Contact Information
 
 **Name:** Hammad Aslam  
-**Email:** `hammadpilot`  
+**Email:** [hammadpilot9099@gmail.com](mailto:hammadpilot9099@gmail.com)  
 **WhatsApp:** [+92-3404593929](https://wa.me/923404593929)  
 **Availability:** 5:00 AM – 12:00 PM PKT  
 **Response Time:** Within 2–3 hours maximum
