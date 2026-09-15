@@ -116,21 +116,13 @@ My portfolio is organized around **15 practical service areas**, with a dedicate
 
 ## 🏆 Mega Project Portfolio
 
-Beyond individual service demonstrations, I am developing larger systems that combine multiple automation capabilities into cohesive business platforms.
+Beyond individual service demonstrations, my portfolio includes larger systems that combine multiple automation capabilities into cohesive business platforms.
 
 ### 🥇 AI-Powered Business Automation Hub
 
 A unified automation platform combining AI analysis, task processing, business rules, integrations, persistence, reliability, analytics, and FastAPI services.
 
-### 🥈 Intelligent Document & Knowledge Management System
-
-A larger system focused on document processing, intelligent knowledge organization, retrieval, and AI-powered interaction with business information.
-
-### 🥉 Automated Business Data Intelligence Platform
-
-A business-focused platform for data processing, automation, reporting, analytics, and intelligent operational insights.
-
-🔗 **Mega Projects Repository:** [AI-Automation-Mega-Projects](https://github.com/Hammad-Borz/AI-Automation-Mega-Projects)
+🔗 **Mega Project Repository:** [AI-Automation-Mega-Projects](https://github.com/Hammad-Borz/AI-Automation-Mega-Projects)
 
 ---
 
@@ -199,9 +191,9 @@ Focused projects that demonstrate individual automation capabilities and practic
 
 ### 🔹 Integrated Mega Systems
 
-Larger projects that combine multiple skills into cohesive automation platforms.
+A larger project that combines multiple skills into a cohesive automation platform.
 
-This structure makes it possible to evaluate both **individual technical capabilities** and the ability to integrate those capabilities into larger systems.
+This structure makes it possible to evaluate both **individual technical capabilities** and the ability to integrate those capabilities into a larger system.
 
 ---
 
