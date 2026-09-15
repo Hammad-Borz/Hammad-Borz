@@ -224,6 +224,38 @@ It is about identifying a real operational problem, designing the right workflow
 
 ---
 
+## 📬 Services & Contact
+
+I build **custom automation projects and provide professional services** across the following 15 service areas:
+
+1. 🐍 **Python Automation**
+2. 🔌 **API Integration**
+3. 🌐 **Web Scraping & Data Extraction**
+4. 🤖 **AI Automation**
+5. 🧠 **AI Assistant & Tool Calling**
+6. 📚 **Advanced RAG & Intelligent Knowledge Systems**
+7. 📧 **Email Automation**
+8. 📊 **Excel & Google Sheets Automation**
+9. 🗄️ **SQL & Database Automation**
+10. ⚙️ **n8n & Make Workflow Automation**
+11. ⚡ **Webhook & Event-Driven Automation**
+12. 🗂️ **Data Processing & Business Automation**
+13. 📈 **Automated Reports & Analytics**
+14. 🚀 **FastAPI Automation Backends**
+15. 🏢 **End-to-End Business Automation Systems**
+
+### 📞 Contact Information
+
+**Name:** Hammad Aslam  
+**Email:** `hammadpilot`  
+**WhatsApp:** [+92-3404593929](https://wa.me/923404593929)  
+**Availability:** 5:00 AM – 12:00 PM PKT  
+**Response Time:** Within 2–3 hours maximum
+
+For project inquiries, service requests, or custom automation requirements, please reach out using the contact details above.
+
+---
+
 ## 🔗 Explore My Work
 
 - 🐙 [GitHub Profile](https://github.com/Hammad-Borz)
